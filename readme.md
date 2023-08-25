@@ -2,7 +2,7 @@
 
 ### requermientos:
 
-- algo mas
+- php >8.2.6
 - adawd
 - adawdw
 - awdaw
